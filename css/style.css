@@ -1,0 +1,217 @@
+body{
+    background-image: url("../img/contact.jpg");
+    background-size: cover;
+    height: 900px;
+}
+.container .header{
+    background-color: rgb(37, 37, 37);
+    height: 90px;
+}
+.container .header h1{
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 2%;
+    margin-left: 5%;
+    float: left;
+
+}
+.container .header ul{
+    list-style-type: none;
+    float: left;
+    margin-left: 40%;
+    margin-top: 2%;
+
+}
+.container .header ul li{
+    display: inline;
+    padding: 15px;
+    
+}
+.container .header ul li a{
+    text-decoration: none;
+    color: white;
+    transition: 0.8s;
+}
+.container .header ul li a:hover{
+    color: tomato;
+}
+.clearfix{
+    clear: both;
+}
+.container .content h1{
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    margin-left: 110px;
+}
+.container .content .one{
+    width: 230px;
+    height: 30px;
+    border-radius: 5px;
+    border: rgba(58, 56, 56, 0.521);
+    background-color: rgba(58, 56, 56, 0.321);
+    color: white;
+    margin-left: 110px;
+    padding-left: 12px;
+    transition: all 0.5s;
+    margin-top: 10px;
+}
+.container .content .one:hover{
+    background-color: tomato;
+}
+.container .content .two{
+    width: 230px;
+    height: 30px;
+    margin-left: 15px;
+    border-radius: 5px;
+    border: rgba(58, 56, 56, 0.521);
+    background-color: rgba(58, 56, 56, 0.321);
+    color: white;
+    padding-left: 12px;
+    transition: all 0.5s;
+}
+.container .content .two:hover{
+    background-color: tomato;
+}
+.container .content .three{
+    margin-left: 110px;
+    width: 495px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 4px;
+    border: rgba(58, 56, 56, 0.521);
+    background-color: rgba(58, 56, 56, 0.321);
+    color: white;
+    padding-left: 12px;
+    transition: all 0.5s;
+}
+.container .content .three:hover{
+    background-color: tomato;
+}
+.container .content .button{
+    position: relative;
+    width: 120px;
+    height: 35px;
+    margin-left: 110px;
+    margin-top: 27px;
+    border-radius: 5px;
+    border: rgba(255, 99, 71, 0.347);
+    background-color: rgba(255, 99, 71, 0.347);
+    color: white;
+    transition: all 0.5s
+}    
+.container .content .button:hover{
+    background-color: tomato;
+}
+.container .content .left{
+    float: left;
+    width: 50%;
+    margin-top: 80px;
+}
+.container .content .right{
+    float: left;
+    width: 50%;
+    margin-top: 7%;
+}
+.container .content .right .up .support{
+    float: left;
+    margin-top: 7px;
+    width: 15px;
+    background-color: tomato;
+    padding: 17px;
+    color: white;
+
+}
+.container .content .right .up .support-one{
+    float: left;
+    margin-top: 7px;
+    width: 190px;
+    background-color: rgba(58, 56, 56, 0.321);
+    padding: 17px;
+    color: white;
+    transition: all 0.5s;
+
+}
+.container .content .right .up .support-one:hover{
+    background-color: tomato;
+}
+.container .content .right .up .phone{
+    float: left;
+    margin-top: 7px;
+    width: 15px;
+    background-color: tomato;
+    padding: 17px;
+    color: white;
+    margin-left: 20px;
+
+}
+.container .content .right .up .phone-one{
+    float: left;
+    margin-top: 7px;
+    width: 190px;
+    background-color: rgba(58, 56, 56, 0.321);
+    padding: 17px;
+    color: white;
+    transition: all 0.5s;
+}
+.container .content .right .up .phone-one:hover{
+    background-color: tomato;
+}
+.container .content .right .down .location{
+    float: left;
+    margin-top: 7px;
+    width: 15px;
+    background-color: tomato;
+    padding: 20px;
+    color: white;
+
+}
+.container .content .right .down .location-one{
+    float: left;
+    background-color: rgba(58, 56, 56, 0.321);
+    color: white;
+    width: 200px;
+    height: 46px;
+    margin: 7px 7px 7px 0px;
+    padding: 6px;
+    font-size: 12px;
+    transition: all 0.5s;
+}
+.container .content .right .down .location-one:hover{
+    background-color: tomato;
+}
+.container .content .right .down .city{
+    float: left;
+    margin-top: 7px;
+    width: 15px;
+    background-color: tomato;
+    padding: 20px;
+    color: white;
+    margin-left: 17px;
+    
+
+}
+.container .content .right .down .city-one{
+    float: left;
+    background-color: rgba(58, 56, 56, 0.321);
+    color: white;
+    width: 200px;
+    height: 46px;
+    margin: 7px 7px 7px 0px;
+    padding: 6px;
+    font-size: 12px;
+    transition: all 0.5s;
+}
+.container .content .right .down .city-one:hover{
+    background-color: tomato;
+}
+
+
+
+
+
+
+
+
+
